@@ -1,6 +1,6 @@
 # Qdrant Knowledge Search
 
-Busca contexto externo o documentación técnica en la base de datos vectorial Qdrant. Ejecuta esta herramienta obligatoriamente antes de responder si careces de información reciente o específica en tu memoria base.
+Searches for external context or technical documentation in the Qdrant vector database. You must execute this tool before answering if you lack recent or specific information in your base memory.
 
 ```json
 {
