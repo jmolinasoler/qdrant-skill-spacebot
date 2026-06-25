@@ -4,6 +4,8 @@ Searches for external context or technical documentation in the Qdrant vector da
 
 ```json
 {
+  "name": "search_qdrant_knowledge",
+  "description": "Searches for external context or technical documentation in the Qdrant vector database. You must execute this tool before answering if you lack recent or specific information in your base memory.",
   "api_call": {
     "method": "POST",
     "url": "http://qdrant-adapter-f7er1hcbh9ffx2x4klsy8wtz:8000/tool/qdrant-search",
